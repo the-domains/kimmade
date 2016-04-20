@@ -1,29 +1,18 @@
-name: kimmade
-favicon: null
-layout_spectrum: 0.6465893560089171
-typography_spectrum: 0.9510236820206046
-title: Kimmade Vietnamese Street Food
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1875
-  lightness: 0.059351152274757624
-  saturation: 0.9413116148207337
-  rhythmicContrast: 0.6451905933208764
+    - '#FEFEFE'
+    - '#FFCE00'
+    - '#FEE77F'
+    - '#FEDA3C'
+    - '#432300'
+  brandStrength: 1
+  lightness: 0.5
+  rhythmicContrast: 0.502467
+  saturation: 0.512336
+cta: {}
+layout_spectrum: 0.994243
+name: kimmade
+opengraph: {}
 purpose: []
+typography_spectrum: 0.060033

@@ -1,0 +1,28 @@
+name: kimmade
+favicon: null
+layout_spectrum: 0.6465893560089171
+typography_spectrum: 0.9510236820206046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.055625748354941607
+  lightness: 0.059351152274757624
+  saturation: 0.9413116148207337
+  rhythmicContrast: 0.6451905933208764
+purpose: []

@@ -6,7 +6,7 @@ color:
     - '#FEE77F'
     - '#FEDA3C'
     - '#432300'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   rhythmicContrast: 0.502467
   saturation: 0.512336

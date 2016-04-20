@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ' The lively atmosphere '
-datePublished: '2016-04-20T22:25:53.953Z'
-dateModified: '2016-04-20T22:25:18.689Z'
+datePublished: '2016-04-20T22:28:37.121Z'
+dateModified: '2016-04-20T22:28:24.182Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-the-lively-atmosphere.md
@@ -22,6 +22,4 @@ url: the-lively-atmosphere/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b76ab81-c30c-4895-b028-05883757ef4a.jpg)
-
-The lively atmosphere
+The lively atmosphere ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b76ab81-c30c-4895-b028-05883757ef4a.jpg)
